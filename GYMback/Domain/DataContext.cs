@@ -8,5 +8,7 @@ namespace Domain
         {
 
         }
+
+        public System.Data.Entity.DbSet<Domain.Rutina> Rutinas { get; set; }
     }
 }

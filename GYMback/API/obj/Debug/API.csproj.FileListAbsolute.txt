@@ -75,3 +75,5 @@ C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\API\bin\System.Web.Http
 C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\API\obj\Debug\API.csprojResolveAssemblyReference.cache
 C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\API\obj\Debug\API.dll
 C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\API\obj\Debug\API.pdb
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\API\bin\Domain.dll
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\API\bin\Domain.pdb

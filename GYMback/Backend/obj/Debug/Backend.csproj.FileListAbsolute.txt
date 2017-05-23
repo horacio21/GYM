@@ -67,3 +67,5 @@ C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Backend\bin\Microsoft.O
 C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Backend\obj\Debug\Backend.csprojResolveAssemblyReference.cache
 C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Backend\obj\Debug\Backend.dll
 C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Backend\obj\Debug\Backend.pdb
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Backend\bin\Domain.dll
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Backend\bin\Domain.pdb
