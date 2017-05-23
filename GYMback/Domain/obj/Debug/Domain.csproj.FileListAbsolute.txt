@@ -1,0 +1,10 @@
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\Domain.dll.config
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\Domain.dll
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\Domain.pdb
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\obj\Debug\Domain.dll
+C:\Users\Horacio Ureña\Documents\GitHub\GYMback\GYMback\Domain\obj\Debug\Domain.pdb
